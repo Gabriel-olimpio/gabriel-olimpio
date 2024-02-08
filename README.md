@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-olimpio&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-olimpio" /> </p>
 
-- 🌱 I’m currently learning **CS50P and Game Development**
+- 🌱 I’m currently learning **Python and Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
