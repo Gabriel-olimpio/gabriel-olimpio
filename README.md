@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-olimpio&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-olimpio" /> </p>
 
-- 🌱 I’m currently learning **Python and Game Development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-andré" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-andré" height="30" width="40" /></a>
