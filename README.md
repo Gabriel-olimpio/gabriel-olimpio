@@ -7,7 +7,7 @@ I'm a passionate **Fullstack Developer** with a love for building impactful web 
 ## 🚀 Skills & Toolset
 
 - **Languages:** Python, Typescript, Javascript
-- **Frameworks:** React, Next.js
+- **Frameworks:** React, Next.js and Flutter
 - **What I love:** Turning ideas into products, architecting scalable systems, and exploring cutting-edge tech
 
 ---
@@ -21,9 +21,9 @@ I'm a passionate **Fullstack Developer** with a love for building impactful web 
 
 ## 💡 Interests
 
-- Mobile Development (especially **iOS**)
-- Game Development
-- Exploring new frameworks and libraries
+- Mobile Development
+- Web Development
+- Desktop Development
 
 ---
 
