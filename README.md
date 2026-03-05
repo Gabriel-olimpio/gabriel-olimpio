@@ -15,7 +15,8 @@ I'm a passionate **Fullstack Developer** with a love for building impactful web 
 ## 🌟 Favorite Projects
 
 - [genfit-app](https://github.com/Gabriel-olimpio/genfit-app): Fitness app focused on personalized training and health
-- [backend-cesjo](https://github.com/thera-org/backend-cesjo) & [frontend-cesjo](https://github.com/thera-org/frontend-cesjo): Full system for CESJO, supporting learning and management
+- [frontend-cesjo](https://github.com/thera-org/frontend-cesjo): Full system for CESJO, supporting learning and management
+- [histofish-app](https://github.com/Gabriel-olimpio/histofish_app): Educational app made in Flutter
 
 ---
 
