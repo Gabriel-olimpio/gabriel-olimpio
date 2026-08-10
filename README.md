@@ -7,7 +7,7 @@ I'm a passionate **Fullstack Developer** with a love for building impactful web 
 ## 🚀 Skills & Toolset
 
 - **Languages:** Python, Typescript, Javascript
-- **Frameworks:** React, Next.js and Flutter
+- **Frameworks:** Next.js
 - **What I love:** Turning ideas into products, architecting scalable systems, and exploring cutting-edge tech
 
 ---
@@ -17,14 +17,14 @@ I'm a passionate **Fullstack Developer** with a love for building impactful web 
 - [genfit-app](https://github.com/Gabriel-olimpio/genfit-app): Fitness app focused on personalized training and health
 - [frontend-cesjo](https://github.com/thera-org/frontend-cesjo): Full system for CESJO, supporting learning and management
 - [histofish-app](https://github.com/Gabriel-olimpio/histofish_app): Educational app made in Flutter
-
+- [barbearia-pds](https://github.com/Gabriel-olimpio/barbearia-pds): BarberAlgo App (Barbershop managing and scheduling system)
 ---
 
 ## 💡 Interests
 
-- Mobile Development
 - Web Development
 - Desktop Development
+- Mobile Development
 
 ---
 
